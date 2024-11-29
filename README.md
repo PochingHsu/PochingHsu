@@ -1,6 +1,6 @@
 <h1>Hi, I'm Po-Ching! <br/><a href="https://github.com/PochingHsu">Mechanical Engineer</a>, <a href="https://www.linkedin.com/in/pochinghsu/">Thermal and Fluid Professional</a>
 
-<h2>👨‍💻 Thermal Engineer Projects:</h2>
+<h2>❄️ Thermal Engineer Projects:</h2>
 
 - <b>Data center and server thermal management</b>
   - [Blade server CPU heatsinks optimization](https://github.com/PochingHsu/ServerHeatsinkOptimization)
@@ -18,7 +18,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>👨‍💻 AI / Machine Learning / Deep Learning Projects:</h2>
+<h2>🤖 AI / Machine Learning / Deep Learning Projects:</h2>
 
 - <b>Optimization algorithm</b>
   - [SGD algorithms](https://github.com/PochingHsu/SGDMethods)
