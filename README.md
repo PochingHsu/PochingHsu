@@ -16,7 +16,7 @@
 <h2>🤖 Tools development:</h2>
 
 - <b>Visualization tools</b>
-  - [P-h Diagram Vis Tools](https://github.com/PochingHsu/ph_visual)
+  - [P-h Diagram plotting](https://github.com/PochingHsu/ph_visual)
   
 <h2>📺 Popular YouTube Videos</h2>
 
