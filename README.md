@@ -22,8 +22,6 @@
 
 - <b>Optimization algorithm</b>
   - [SGD algorithms](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   
 <h2>📺 Popular YouTube Videos</h2>
 
