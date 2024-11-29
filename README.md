@@ -22,7 +22,7 @@
 
 - [Hsu, P.-C., Gao, L., & Hwang, Y. (2025). Comparative study of LSTM and ANN models for power consumption prediction of variable refrigerant flow (VRF) systems in buildings. International Journal of Refrigeration, 169, 55–68. https://doi.org/10.1016/j.ijrefrig.2024.10.020](https://doi.org/10.1016/j.ijrefrig.2024.10.020)
 - [Ma, H., Hsu, Y., & Hsu, P. (2017). A Novel Hybrid Actuator Driven Magnetically in the Bi-Cell PEM Fuel Cell Stack. Metals, 7(11), 453. https://doi.org/10.3390/met7110453](https://doi.org/10.3390/met7110453)
-
+<!--
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -34,7 +34,7 @@
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
-
+-->
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
