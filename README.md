@@ -13,7 +13,7 @@
 - <b>Optimization algorithm</b>
   - [SGD algorithms](https://github.com/PochingHsu/SGDMethods)
   - 
-<h2>🤖 Tools development:</h2>
+<h2>👁️‍🗨️ Tools development:</h2>
 
 - <b>Visualization tools</b>
   - [P-h Diagram plotting](https://github.com/PochingHsu/ph_visual)
