@@ -5,7 +5,7 @@
 - <b>Data center and server thermal management</b>
   - [Blade server CPU heatsinks optimization](https://github.com/PochingHsu/ServerHeatsinkOptimization)
 - <b>Building HVAC system design and control </b>
-  - [LQR controller for building thermal zone](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [LQR controller for building thermal zone]()
 
 <h2>🤖 AI / Machine Learning / Deep Learning Projects:</h2>
 
