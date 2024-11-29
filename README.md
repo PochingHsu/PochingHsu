@@ -21,7 +21,7 @@
 <h2>👨‍💻 AI / Machine Learning / Deep Learning Projects:</h2>
 
 - <b>Optimization algorithm</b>
-  - [SGD algorithms](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SGD algorithms](https://github.com/PochingHsu/SGDMethods)
   
 <h2>📺 Popular YouTube Videos</h2>
 
