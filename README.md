@@ -5,7 +5,7 @@
 - <b>Data center and server thermal management</b>
   - [Blade server CPU heatsinks optimization](https://github.com/PochingHsu/ServerHeatsinkOptimization)
 - <b>Building HVAC system</b>
-  - [LQR controller for building thermal zone]()
+  - [LQR controller for building thermal zone](https://github.com/PochingHsu/LQRControllerBldgTZ.git)
   - [PINN Based - Model Predictive Control of Single Zone Building](https://github.com/PochingHsu/PINN-MPC)
 
 <h2>🤖 AI / Machine Learning / Deep Learning Projects:</h2>
