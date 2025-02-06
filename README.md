@@ -5,19 +5,19 @@
 - <b>Data center and server thermal management</b>
   - [Blade server CPU heatsinks optimization](https://github.com/PochingHsu/ServerHeatsinkOptimization)
 - <b>Building HVAC system</b>
-  - [LQR controller for building thermal zone](https://github.com/PochingHsu/LQRControllerBldgTZ.git)
+<!--  - [LQR controller for building thermal zone](https://github.com/PochingHsu/LQRControllerBldgTZ.git) -->
   - [PINN Based - Model Predictive Control of Single Zone Building](https://github.com/PochingHsu/PINN-MPC)
 
 <h2>🤖 AI / Machine Learning / Deep Learning Projects:</h2>
 
 - <b>Optimization algorithm</b>
   - [SGD algorithms](https://github.com/PochingHsu/SGDMethods)
-    
+<!--    
 <h2>👁️‍🗨️ Tools development:</h2>
 
 - <b>Visualization tools</b>
   - [P-h Diagram plotting](https://github.com/PochingHsu/ph_visual)
-  
+  -->
 <h2> ✒️ Publication</h2>
 
 - [Hsu, P.-C., Gao, L., & Hwang, Y. (2025). Comparative study of LSTM and ANN models for power consumption prediction of variable refrigerant flow (VRF) systems in buildings. International Journal of Refrigeration, 169, 55–68. https://doi.org/10.1016/j.ijrefrig.2024.10.020](https://doi.org/10.1016/j.ijrefrig.2024.10.020)
