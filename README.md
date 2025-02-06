@@ -1,4 +1,4 @@
-<h1>Hi, I'm Po-Ching! <br><a href="https://github.com/PochingHsu">Mechanical Engineer</a>, <a href="https://www.linkedin.com/in/pochinghsu/">Applied AI Engineer</a>, <a href="https://www.linkedin.com/in/pochinghsu/">Thermal and Fluid Professional</a>
+<h1>Hi, I'm Po-Ching! <br><a href="https://www.linkedin.com/in/pochinghsu/">Mechanical Engineer</a>, <a href="https://www.linkedin.com/in/pochinghsu/">Applied AI Engineer</a>, <a href="https://www.linkedin.com/in/pochinghsu/">Thermal and Fluid Professional</a>
 
 <h2>❄️ Thermal Engineer Projects:</h2>
 
