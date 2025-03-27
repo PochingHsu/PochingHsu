@@ -1,6 +1,6 @@
 <h1>Hi, I'm Po-Ching! <br><a href="https://www.linkedin.com/in/pochinghsu/">Mechanical Engineer</a>, <a href="https://www.linkedin.com/in/pochinghsu/">Applied AI Engineer</a>, <a href="https://www.linkedin.com/in/pochinghsu/">Thermal and Fluid Professional</a>
 
-<h2>❄️ Thermal & Control Engineer / Optimization / Machine Learning / Deep Learning Projects:</h2>
+<h2>❄️ Thermal & Control Engineer / Optimization / Applied Machine Learning & Deep Learning Projects:</h2>
 
 - <b>Data center and server thermal management</b>
   - [Blade server CPU heatsinks optimization](https://github.com/PochingHsu/ServerHeatsinkOptimization)
