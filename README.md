@@ -26,7 +26,8 @@
 <h2> ✒️ Media Features</h2>
 - <b>Optimization algorithm</b>
   - [SGD algorithms](https://github.com/PochingHsu/SGDMethods)
-
+- <b>Optimization algorithm</b>
+  - [SGD algorithms](https://github.com/PochingHsu/SGDMethods)
 
 <!--
 <h2> 🤳 Connect with me:</h2>
