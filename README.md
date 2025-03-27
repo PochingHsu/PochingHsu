@@ -25,7 +25,7 @@
 
 <h2> 📷 Media Features:</h2>
 
-- Time Magazine, "How AI Is Making Buildings More Energy-Efficient" — December 11, 2024. [Link to Article](https://time.com/7201501/ai-buildings-energy-efficiency/)
+- Time Magazine, <em>"How AI Is Making Buildings More Energy-Efficient"</em> — December 11, 2024. [Link to Article](https://time.com/7201501/ai-buildings-energy-efficiency/)
 - Maryland Today, "AI Face-off: Researchers Pit Old AI Tech vs. New in HVAC Efficiency Test" — November 7, 2024. [Link to Article](https://today.umd.edu/briefs/ai-face-off-researchers-pit-old-ai-tech-vs-new-in-hvac-efficiency-test)
 
 
