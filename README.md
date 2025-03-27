@@ -2,12 +2,12 @@
 
 <h2>❄️ Thermal & Control Engineer / Applied Machine Learning & Deep Learning Projects:</h2>
 
-- <b>Data center and server thermal management</b>
-  - [Blade Server CPU Heatsinks Optimization](https://github.com/PochingHsu/ServerHeatsinkOptimization)
 - <b>Building and HVAC</b>
   - [Physics-Informed Neural Networks (PINN) and Model Predictive Control (MPC) for Energy Optimization in Building](https://github.com/PochingHsu/PINN-MPC)
   - [Developing CFD Surrogate Models Using Machine Learning for A-Coil Velocity Profile Prediction](https://github.com/PochingHsu/Acoil)
   - [LQR Controller for Energy Optimization in Building](https://github.com/PochingHsu/LQRControllerBldgTZ.git)
+- <b>Data center and server thermal management</b>
+  - [Blade Server CPU Heatsinks Optimization](https://github.com/PochingHsu/ServerHeatsinkOptimization)
 
 <h2>🤖 AI / Machine Learning / Deep Learning Algorithms:</h2>
 
