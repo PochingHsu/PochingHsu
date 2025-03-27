@@ -32,7 +32,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/pochinghsu/" target="_blank">
-  <img align="left" alt="Po-Ching Hsu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Po-Ching Hsu | LinkedIn" width="22px" src="https://raw.githubusercontent.com/PochingHsu/pics/refs/heads/main/linkedin-icon-svgrepo-com.svg" />
 </a>
 
 <!--
