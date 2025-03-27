@@ -25,6 +25,7 @@
 <h2> ✒️ Media Features</h2>
 Time Magazine, [How AI Is Making Buildings More Energy-Ecient](https://time.com/7201501/ai-buildings-energy-efficiency/) - December 11, 2024.
 Featured for my research on leveraging AI to reduce energy consumption in building HVAC systems, contributing to advancements in energy eciency and sustainability.
+
 <!--
 <h2> 🤳 Connect with me:</h2>
 
