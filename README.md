@@ -5,7 +5,7 @@
 - <b>Data center and server thermal management</b>
   - [Blade server CPU heatsinks optimization](https://github.com/PochingHsu/ServerHeatsinkOptimization)
 - <b>Building HVAC system</b>
-  - [PINN Based - Model Predictive Control of Single Zone Building](https://github.com/PochingHsu/PINN-MPC)
+  - [Physics-Informed Neural Networks and Model Predictive Control for Energy Optimization in Building](https://github.com/PochingHsu/PINN-MPC)
 <!--  - [LQR controller for building thermal zone](https://github.com/PochingHsu/LQRControllerBldgTZ.git) -->
 <h2>🤖 AI / Machine Learning / Deep Learning Algorithms:</h2>
 
