@@ -6,6 +6,7 @@
   - [Blade Server CPU Heatsinks Optimization](https://github.com/PochingHsu/ServerHeatsinkOptimization)
 - <b>Building and HVAC</b>
   - [Physics-Informed Neural Networks (PINN) and Model Predictive Control (MPC) for Energy Optimization in Building](https://github.com/PochingHsu/PINN-MPC)
+  - [Developing CFD Surrogate Models Using Machine Learning for A-Coil Velocity Profile Prediction](https://github.com/PochingHsu/Acoil)
 <!--  - [LQR controller for building thermal zone](https://github.com/PochingHsu/LQRControllerBldgTZ.git) -->
 <h2>🤖 AI / Machine Learning / Deep Learning Algorithms:</h2>
 
