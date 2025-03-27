@@ -28,10 +28,8 @@
 - Time Magazine, How AI Is Making Buildings More Energy-Efficient — December 11, 2024. [Link to Article](https://time.com/7201501/ai-buildings-energy-efficiency/)
 - Maryland Today, "AI Face-off: Researchers Pit Old AI Tech vs. New in HVAC Efficiency Test" — November 7, 2024. [Link to Article](https://today.umd.edu/briefs/ai-face-off-researchers-pit-old-ai-tech-vs-new-in-hvac-efficiency-test)
 
-<h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<!--
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -43,7 +41,7 @@
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
--->
+
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
