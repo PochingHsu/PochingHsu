@@ -36,7 +36,7 @@
 </a>
 
 <a href="https://www.researchgate.net/profile/Po-Ching-Hsu?ev=hdr_xprf" target="_blank">
-  <img align="left" alt="Po-Ching Hsu | ResearchGate" width="22px" src="https://raw.githubusercontent.com/PochingHsu/pics/refs/heads/main/researchgate-svgrepo-com.svg?token=GHSAT0AAAAAAC6PNGM7OX3ZFA57FTTF2OMSZ7EW27A" />
+  <img align="left" alt="Po-Ching Hsu | ResearchGate" width="22px" src="https://raw.githubusercontent.com/PochingHsu/pics/refs/heads/main/researchgate-svgrepo-com.svg?token=GHSAT0AAAAAAC6PNGM7TT4EUZI3EY6YOEIUZ7E3MBQ" />
 </a>
 
 
