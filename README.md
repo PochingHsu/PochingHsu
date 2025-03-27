@@ -35,7 +35,7 @@ I am a Ph.D. student in Mechanical Engineering at the University of Maryland, Co
 - Maryland Today, <em>"AI Face-off: Researchers Pit Old AI Tech vs. New in HVAC Efficiency Test"</em> — November 7, 2024. [Link to Article](https://today.umd.edu/briefs/ai-face-off-researchers-pit-old-ai-tech-vs-new-in-hvac-efficiency-test)
 
 
-
+<!--
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/pochinghsu/" target="_blank">
   <img align="left" alt="Po-Ching Hsu | LinkedIn" width="22px" src="https://raw.githubusercontent.com/PochingHsu/pics/refs/heads/main/linkedin-icon-svgrepo-com.svg?token=GHSAT0AAAAAAC6PNGM7DQF72UQSUBKCYGTEZ7E3LFA" />
@@ -44,7 +44,7 @@ I am a Ph.D. student in Mechanical Engineering at the University of Maryland, Co
 <a href="https://www.researchgate.net/profile/Po-Ching-Hsu?ev=hdr_xprf" target="_blank">
   <img align="left" alt="Po-Ching Hsu | ResearchGate" width="22px" src="https://raw.githubusercontent.com/PochingHsu/pics/refs/heads/main/researchgate-svgrepo-com.svg?token=GHSAT0AAAAAAC6PNGM7TT4EUZI3EY6YOEIUZ7E3MBQ" />
 </a>
-
+-->
 
 <!--
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
