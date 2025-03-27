@@ -1,8 +1,10 @@
 <h1>Hi, I'm Po-Ching! <br><a href="https://www.linkedin.com/in/pochinghsu/">Mechanical Engineer</a>, <a href="https://www.linkedin.com/in/pochinghsu/">Applied AI Engineer</a>, <a href="https://www.linkedin.com/in/pochinghsu/">Thermal and Fluid Professional</a>
 
+<!--
 </h2>
 I am a Ph.D. student in Mechanical Engineering at the University of Maryland, College Park, and a graduate research assistant at the Center for Environmental Energy Engineering (CEEE).
 <br> <br> My research focuses on low global warming potential (GWP) HVAC systems, variable refrigerant flow (VRF) systems, smart buildings, and data-driven modeling (ML/DL) for HVAC systems to enhance energy efficiency and sustainability.</h2>
+-->
 
 <h2>❄️ Thermal & Control Engineer / Applied Machine Learning & Deep Learning Projects:</h2>
 
