@@ -23,7 +23,7 @@
 - [Ma, H., Hsu, Y., & Hsu, P. (2017). A Novel Hybrid Actuator Driven Magnetically in the Bi-Cell PEM Fuel Cell Stack. Metals, 7(11), 453. https://doi.org/10.3390/met7110453](https://doi.org/10.3390/met7110453)
 
 <h2> ✒️ Media Features</h2>
-- Time Magazine, "How AI Is Making Buildings More Energy-Efficient" - December 11, 2024.
+- <b>Time Magazine, "How AI Is Making Buildings More Energy-Efficient" - December 11, 2024.</b>
 - Maryland Today, "AI Face-off: Researchers Pit Old AI Tech vs. New in HVAC Efficiency Test" - November 7, 2024.
 
 <!--
