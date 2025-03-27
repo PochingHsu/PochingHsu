@@ -22,9 +22,11 @@
 - [Hsu, P.-C., Gao, L., & Hwang, Y. (2025). Comparative study of LSTM and ANN models for power consumption prediction of variable refrigerant flow (VRF) systems in buildings. International Journal of Refrigeration, 169, 55–68. https://doi.org/10.1016/j.ijrefrig.2024.10.020](https://doi.org/10.1016/j.ijrefrig.2024.10.020)
 - [Ma, H., Hsu, Y., & Hsu, P. (2017). A Novel Hybrid Actuator Driven Magnetically in the Bi-Cell PEM Fuel Cell Stack. Metals, 7(11), 453. https://doi.org/10.3390/met7110453](https://doi.org/10.3390/met7110453)
 
+
 <h2> ✒️ Media Features</h2>
 - <b>Optimization algorithm</b>
   - [SGD algorithms](https://github.com/PochingHsu/SGDMethods)
+
 
 <!--
 <h2> 🤳 Connect with me:</h2>
