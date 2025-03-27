@@ -7,7 +7,7 @@
 - <b>Building HVAC system</b>
   - [PINN Based - Model Predictive Control of Single Zone Building](https://github.com/PochingHsu/PINN-MPC)
 <!--  - [LQR controller for building thermal zone](https://github.com/PochingHsu/LQRControllerBldgTZ.git) -->
-<h2>🤖 AI / Machine Learning / Deep Learning Algorithm Projects:</h2>
+<h2>🤖 AI / Machine Learning / Deep Learning Algorithms:</h2>
 
 - <b>Optimization algorithm</b>
   - [SGD algorithms](https://github.com/PochingHsu/SGDMethods)
