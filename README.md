@@ -32,7 +32,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/pochinghsu/" target="_blank">
-  <img align="left" alt="Po-Ching Hsu | LinkedIn" width="22px" src="https://raw.githubusercontent.com/PochingHsu/pics/refs/heads/main/linkedin-icon-svgrepo-com.svg?token=GHSAT0AAAAAAC6PNGM7HNPHY245ITPT7IUYZ7EWVVQ" />
+  <img align="left" alt="Po-Ching Hsu | LinkedIn" width="22px" src="https://raw.githubusercontent.com/PochingHsu/pics/refs/heads/main/linkedin-icon-svgrepo-com.svg?token=GHSAT0AAAAAAC6PNGM7DQF72UQSUBKCYGTEZ7E3LFA" />
 </a>
 
 <a href="https://www.researchgate.net/profile/Po-Ching-Hsu?ev=hdr_xprf" target="_blank">
