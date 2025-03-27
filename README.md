@@ -25,7 +25,7 @@
 
 <h2> 📷 Media Features:</h2>
 
-- <b>Time Magazine, How AI Is Making Buildings More Energy-Ecient - December 11, 2024.</b>
+- <b>Time Magazine, How AI Is Making Buildings More Energy-Efficient - December 11, 2024.</b>
   - [SGD algorithms](https://github.com/PochingHsu/SGDMethods)
 
 
