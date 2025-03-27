@@ -31,11 +31,6 @@ I am a Ph.D. student in Mechanical Engineering at the University of Maryland, Co
 - [Hsu, P.-C., Gao, L., & Hwang, Y. (2025). Comparative study of LSTM and ANN models for power consumption prediction of variable refrigerant flow (VRF) systems in buildings. International Journal of Refrigeration, 169, 55–68. https://doi.org/10.1016/j.ijrefrig.2024.10.020](https://doi.org/10.1016/j.ijrefrig.2024.10.020)
 - [Ma, H., Hsu, Y., & Hsu, P. (2017). A Novel Hybrid Actuator Driven Magnetically in the Bi-Cell PEM Fuel Cell Stack. Metals, 7(11), 453. https://doi.org/10.3390/met7110453](https://doi.org/10.3390/met7110453)
 
-<h2> 📷 Media Features:</h2>
-
-- Time Magazine, <em>"How AI Is Making Buildings More Energy-Efficient"</em> — December 11, 2024. [Link to Article](https://time.com/7201501/ai-buildings-energy-efficiency/)
-- Maryland Today, <em>"AI Face-off: Researchers Pit Old AI Tech vs. New in HVAC Efficiency Test"</em> — November 7, 2024. [Link to Article](https://today.umd.edu/briefs/ai-face-off-researchers-pit-old-ai-tech-vs-new-in-hvac-efficiency-test)
-
 
 <!--
 <h2> 🤳 Connect with me:</h2>
