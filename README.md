@@ -9,7 +9,7 @@ I am a Ph.D. student in Mechanical Engineering at the University of Maryland, Co
 <h2>❄️ Thermal & Control Engineer / Applied Machine Learning & Deep Learning Projects:</h2>
 
 - <b>Building and HVAC</b>
-  - [Developing CFD Surrogate Models Using Machine Learning for A-Coil Velocity Profile Prediction](https://github.com/PochingHsu/Acoil)
+  - [Investigating Heat Pump Performance Under Air Maldistribution Using Machine Learning-Based CFD Surrogate Models](https://github.com/PochingHsu/Acoil)
   - [Physics-Informed Neural Networks (PINN) and Model Predictive Control (MPC) for Energy Optimization in Building](https://github.com/PochingHsu/PINN-MPC)
   - [LQR Controller for Energy Optimization in Building](https://github.com/PochingHsu/LQRControllerBldgTZ.git)
 - <b>Data center and server thermal management</b>
