@@ -28,6 +28,7 @@ I am a Ph.D. student in Mechanical Engineering at the University of Maryland, Co
 
 <h2> ✒️ Publication</h2>
 
+- [Hsu, P.-C., Gao, L., Hwang, Y., & Radermacher, R. (2025). A review of the state-of-the-art data-driven modeling of building HVAC systems. Energy and Buildings. https://doi.org/10.1016/j.enbuild.2025.115881](https://doi.org/10.1016/j.enbuild.2025.115881)
 - [Hsu, P.-C., Gao, L., & Hwang, Y. (2025). Comparative study of LSTM and ANN models for power consumption prediction of variable refrigerant flow (VRF) systems in buildings. International Journal of Refrigeration, 169, 55–68. https://doi.org/10.1016/j.ijrefrig.2024.10.020](https://doi.org/10.1016/j.ijrefrig.2024.10.020)
 - [Ma, H., Hsu, Y., & Hsu, P. (2017). A Novel Hybrid Actuator Driven Magnetically in the Bi-Cell PEM Fuel Cell Stack. Metals, 7(11), 453. https://doi.org/10.3390/met7110453](https://doi.org/10.3390/met7110453)
 
